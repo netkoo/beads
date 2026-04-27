@@ -1,4 +1,4 @@
-const PRODUCTS = [
+window.PRODUCTS = [
   {
     id: 1,
     name: "Gelang Manik (Beaded Bracelet)",
