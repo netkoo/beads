@@ -20,7 +20,7 @@ let selectedColors = [];
 // ==============================
 // LOCALSTORAGE
 // ==============================
-const CATALOG_VERSION = 'v2-images';
+const CATALOG_VERSION = 'v3-img';
 function save() {
     localStorage.setItem('manik_products', JSON.stringify(products));
     localStorage.setItem('manik_version', CATALOG_VERSION);
